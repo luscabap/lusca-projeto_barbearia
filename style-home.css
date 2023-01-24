@@ -1,0 +1,107 @@
+header{
+    background-color: gray;
+    padding: 20px 0px;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+nav li{
+    display: inline;
+    margin: 0px 0px 0px 20px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 1.4em;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+main{
+    margin: 0px auto;
+    width: 940px;
+}
+
+body{
+    background-color: white;
+}
+
+#barbearia{
+    width: 100%;
+    margin-bottom: -4px;
+}
+
+.principal{
+    Background-color: gray;
+    padding: 30px;
+}
+
+.titulo_principal{
+    padding-left: 20px;
+}
+
+.titulo_centralizado{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+
+.principal p{
+    font-size: 1.2em;
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+    color: red;
+    font-size: 1.4em;
+    margin: 10px 0px;
+}
+
+.beneficios{
+    background-color: lightgray;
+    background-image: linear-gradient(to top, lightgray, gray);
+    padding: 20px;
+}
+
+.itens{
+    text-transform: uppercase;
+    padding: 5px 0px;
+}
+
+.imagem_beneficios{
+    width: 50%;
+    border-radius: 10px;
+}
+
+footer{
+    background: url("images/bg.jpg");
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.copyright{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
